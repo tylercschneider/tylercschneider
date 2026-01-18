@@ -39,7 +39,6 @@ I value correctness, testability, and operational clarity over novelty.
 
 * Event systems fail quietly when schemas, volume, and query patterns are not planned early
 * Querying raw event tables at extreme scale is not viable without purpose-built storage
-* Organizational constraints often matter more than technical correctness
 
 ---
 
@@ -48,8 +47,6 @@ I value correctness, testability, and operational clarity over novelty.
 * Designing **explicit, testable domain logic** decoupled from frameworks
 * Exploring **event-driven systems** with clearer operational boundaries
 * Improving system documentation and architectural communication
-
-Some projects are exploratory by design. When something is a prototype or learning vehicle, I label it as such.
 
 ---
 
@@ -60,19 +57,9 @@ Some projects are exploratory by design. When something is a prototype or learni
 * Tradeoff-driven designs (not “perfect” systems)
 * Code intended to be read and reasoned about
 
-If something looks over-engineered, it is usually intentional for learning or validation purposes—not because it’s the default recommendation.
-
 ---
 
 ## Contact
 
 * [LinkedIn](https://www.linkedin.com/in/tylercschneider/)
 * [Website](https://t-y-l-e-r.com)
-
----
-
-### Notes on Accuracy
-
-* I do not claim large-scale success where constraints prevented it
-* I do not present experiments as production-ready systems
-* If a repository is incomplete or exploratory, it is treated as such
